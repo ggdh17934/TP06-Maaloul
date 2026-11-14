@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+checkpoint/
+.ivy2/
+.flink/
+*.pyc
+*.log
